@@ -7,12 +7,25 @@ To develop a website to display details about the places around my house.
 
 # Design Steps:
 ## Step 1
+create a folder "static" under the project folder "mapping"
 
 ## Step 2
+in static,create a file "map.html".
 
 ## Step 3
+go to google maps and take screenshot of your home along with 5 places around it.
 
+## step 4
+go to image-maps.com and make 5 locations on it  using the shapes used in maps
 
+## step 5
+copy the code and add it into "map.html"
+
+## step 6
+create the html documents to be displayed when clicked on the location in image map
+
+## step 7
+take screenshot of the output
 # Code:
 ## map.html
 ```
